@@ -1,10 +1,4 @@
-def simple_curfew_checker(9:30)
-  if simple_curfew_checker 
-    puts "get ready for bed"
-  else simple_curfew_checker
-    puts "not yet time for bed"
-  end
-end
+
 
 def curfew_checker(10:00)
   if 10 < 11
