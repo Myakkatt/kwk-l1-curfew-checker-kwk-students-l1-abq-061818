@@ -1,5 +1,4 @@
 
-
 def curfew_checker(10:00)
   if 10 < 11
     puts "Really it's time to get ready for bed"
